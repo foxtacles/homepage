@@ -1,5 +1,5 @@
-PAGES = index contact faq
-DESTDIR = ~/public_html
+PAGES = space work about contact
+DESTDIR = ~/www/solitary/pages
 DATEFMT = "%a %d %b %Y %H:%M %z"
 
 SRCDIR = src
