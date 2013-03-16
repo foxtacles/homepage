@@ -36,16 +36,10 @@ span.highlight {
 }
 
 div#updated {
-	bottom: 1em;
-	left: 0.3em;
 }
 
 div#iewarning {
-	bottom: 0em;
-	left: 0.3em;
 }
 
 div#validation {
-	bottom: 0em;
-	right: 0em;
 }
