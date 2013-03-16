@@ -1,5 +1,5 @@
-PAGES = space work about contact
-DESTDIR = ~/www/solitary/pages
+PAGES = home work about contact
+DESTDIR = ~/www/foxtacles/pages
 DATEFMT = "%a %d %b %Y %H:%M %z"
 
 SRCDIR = src
