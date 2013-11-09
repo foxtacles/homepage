@@ -7,6 +7,10 @@ p {
 	margin-left: 0;
 }
 
+span.smalltext {
+	font-size: 6pt;
+}
+
 ul.nav {
 	margin: 1em;
 	padding: 0.4em;
