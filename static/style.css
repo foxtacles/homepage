@@ -22,6 +22,10 @@ ul.nav li {
 	margin: 1em;
 }
 
+ul li {
+	padding: 0.3em 0em;
+}
+
 div.content {
 	margin: 1em;
 }
