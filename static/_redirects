@@ -1,0 +1,10 @@
+# Redirect domain aliases to primary domain
+https://csemmler.com/* https://foxtacles.com/:splat 301!
+https://www.csemmler.com/* https://foxtacles.com/:splat 301!
+https://vulpine.ly/* https://foxtacles.com/:splat 301!
+https://www.vulpine.ly/* https://foxtacles.com/:splat 301!
+https://fox.pm/* https://foxtacles.com/:splat 301!
+https://www.fox.pm/* https://foxtacles.com/:splat 301!
+https://fox.yt/* https://foxtacles.com/:splat 301!
+https://www.fox.yt/* https://foxtacles.com/:splat 301!
+
