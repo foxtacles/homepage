@@ -8,3 +8,13 @@ https://www.fox.pm/* https://foxtacles.com/:splat 301!
 https://fox.yt/* https://foxtacles.com/:splat 301!
 https://www.fox.yt/* https://foxtacles.com/:splat 301!
 
+# These extra rules are required because HTTPS is not forced
+http://csemmler.com/* https://foxtacles.com/:splat 301!
+http://www.csemmler.com/* https://foxtacles.com/:splat 301!
+http://vulpine.ly/* https://foxtacles.com/:splat 301!
+http://www.vulpine.ly/* https://foxtacles.com/:splat 301!
+http://fox.pm/* https://foxtacles.com/:splat 301!
+http://www.fox.pm/* https://foxtacles.com/:splat 301!
+http://fox.yt/* https://foxtacles.com/:splat 301!
+http://www.fox.yt/* https://foxtacles.com/:splat 301!
+
