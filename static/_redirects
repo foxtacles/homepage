@@ -7,6 +7,8 @@ https://fox.pm/* https://foxtacles.com/:splat 301!
 https://www.fox.pm/* https://foxtacles.com/:splat 301!
 https://fox.yt/* https://foxtacles.com/:splat 301!
 https://www.fox.yt/* https://foxtacles.com/:splat 301!
+https://vaultmp.com/* https://github.com/foxtacles/vaultmp 301!
+https://www.vaultmp.com/* https://github.com/foxtacles/vaultmp 301!
 
 # These extra rules are required because HTTPS is not forced
 http://foxtacles.com/* https://foxtacles.com/:splat 301!
@@ -19,3 +21,5 @@ http://fox.pm/* https://foxtacles.com/:splat 301!
 http://www.fox.pm/* https://foxtacles.com/:splat 301!
 http://fox.yt/* https://foxtacles.com/:splat 301!
 http://www.fox.yt/* https://foxtacles.com/:splat 301!
+http://vaultmp.com/* https://github.com/foxtacles/vaultmp 301!
+http://www.vaultmp.com/* https://github.com/foxtacles/vaultmp 301!
